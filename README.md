@@ -81,4 +81,23 @@ A comprehensive web application built for the **Masters Basketball Academy** to 
 ---
 
 ## 🗃️ Folder Structure (Frontend)
-
+mba-portal/
+├── src/
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Footer.jsx
+│ │ ├── Members.jsx
+│ │ ├── EventForm.jsx
+│ │ ├── Gallery.jsx
+│ │ ├── Scoreboard.jsx
+│ │ └── ...
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ ├── Register.jsx
+│ │ ├── Login.jsx
+│ │ └── ...
+│ ├── styles/
+│ │ ├── Register.css
+│ │ ├── Login.css
+│ │ └── ...
+│ └── App.jsx

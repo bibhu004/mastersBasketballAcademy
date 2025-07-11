@@ -2,6 +2,8 @@
 
 A comprehensive web application built for the **Masters Basketball Academy** to manage members, events, registrations, photo/video galleries, and more. The portal includes both a **React frontend** and a **Spring Boot backend**, secured with **AWS Cognito authentication**, and designed for responsive access across devices.
 
+🔗 **Live Website**: [https://mastersbasketballacademy.com](https://mastersbasketballacademy.com)
+
 ---
 
 ## 🔗 Live Repositories
